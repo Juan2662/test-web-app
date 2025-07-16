@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.erancorp.eranpay",
+            "sha256_cert_fingerprints": [
+                "8C:F0:CA:52:FE:0D:8B:66:E0:08:2A:B2:BC:E5:E9:73:FF:58:B6:82:C2:AC:8D:83:D8:8B:A1:EB:A4:2F:AD:16"
+            ]
+        }
+    }
+]

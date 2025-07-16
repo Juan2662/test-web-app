@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "XCJ8C4754G.com.erancorp.eranpay.dev",
+                "paths": [
+                    "/links/*"
+                ]
+            }
+        ]
+    }
+}
