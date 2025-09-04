@@ -4,8 +4,7 @@
             {
                 "appID": "XCJ8C4754G.com.erancorp.eranpay.dev",
                 "paths": [
-                    "/verify-email/*",
-                    "/verify-email*"
+                    "/verify-email"
                 ]
             }
         ]
