@@ -2,7 +2,10 @@
     "applinks": {
         "details": [
             {
-                "appID": "XCJ8C4754G.com.erancorp.eranpay.dev",
+                "appIDs": [
+                    "XCJ8C4754G.com.erancorp.eranpay.dev",
+                    "Y5NL9U5RK6.com.lendingpoint.cp.qa.v4"
+                ],
                 "paths": [
                     "/verify-email"
                 ]
