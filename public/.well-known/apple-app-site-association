@@ -4,6 +4,7 @@
             {
                 "appIDs": [
                     "XCJ8C4754G.com.erancorp.eranpay.dev",
+"XCJ8C4754G.com.erancorp.eranpay.preview",
                     "Y5NL9U5RK6.com.lendingpoint.cp.qa.v4"
                 ],
                 "paths": [
